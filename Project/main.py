@@ -1,4 +1,4 @@
-#from quicksort import quicksort
+from quicksort import quicksort
 from bubblesort import bubblesort
 
 def get_numbers():
